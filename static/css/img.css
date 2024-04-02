@@ -1,8 +1,5 @@
-.img.css{
-position: absolute;
+.img img{
 width: 1068px;
 height: 710px;
 left: 185px;
-top: 314px;
-background: url(image.png);
 }
