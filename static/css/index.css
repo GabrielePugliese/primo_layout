@@ -1,0 +1,9 @@
+@import "commons.css";
+@import "article_title.css";
+@import "article_img.css";
+@import "article_text.css";
+@import "article_firma.css";
+
+body {
+    background-color: #fffef0;
+}
